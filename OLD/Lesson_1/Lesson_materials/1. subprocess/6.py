@@ -23,4 +23,4 @@ def ping_ip(ip_address):
 
 
 print(ping_ip('192.168.1.2'))
-print(ping_ip('a'))
+# print(ping_ip('a'))

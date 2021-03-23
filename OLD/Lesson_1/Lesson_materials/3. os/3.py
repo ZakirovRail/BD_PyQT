@@ -39,5 +39,5 @@ print(os.path.join("F:\Курсы GeekBrains\Python. Продвинутый ур
 print(os.path.split("F:\Курсы GeekBrains\Python. Продвинутый уровень. "
                     "Часть 2\Урок-1\Коды к методичке_МОИ\os\/3.py"))
 
-DIR_STRUCT = os.listdir('.')
+DIR_STRUCT = os.listdir('')
 print(DIR_STRUCT)
